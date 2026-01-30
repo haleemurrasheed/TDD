@@ -53,14 +53,4 @@ analyzeArray([1,8,3,4,2,6])
 
 
 
-## 📚 Resources
-
-- [Jest Documentation](https://jestjs.io/)
-- [Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
-
----
-
-
 May God make the learning journey easy and beneficial!
-
-Remember: **Good tests = Good code = Confident developer!** ✅
